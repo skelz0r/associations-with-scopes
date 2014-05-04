@@ -1,0 +1,3 @@
+= Example app for ActiveRecord associations with scoped in block
+
+Please take a look to `app/models/threadhead.rb` and `spec/models/threadhead_spec.rb`
